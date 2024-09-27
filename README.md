@@ -94,8 +94,8 @@ The conversation input data should be stored in a table of your data warehouse. 
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/intercom-chat-topic-detection.git
-cd intercom-chat-topic-detection
+git clone https://github.com/querbesd/chat-topic-detection.git
+cd chat-topic-detection
 ```
 
 2. Create a virtual environment
