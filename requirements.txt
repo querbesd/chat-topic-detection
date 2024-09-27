@@ -1,0 +1,11 @@
+# package>=version
+google-cloud-bigquery
+google-cloud-storage
+pandas
+numpy
+python-dotenv
+colorama
+aiohttp
+tiktoken
+google-cloud-secret-manager
+db-dtypes
